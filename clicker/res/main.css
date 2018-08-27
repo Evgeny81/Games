@@ -1,0 +1,11 @@
+#board {
+    position: relative;
+    width: 640px;
+    height: 480px;
+    margin: auto;
+    background: deeppink;
+}
+
+img {
+    width: 60px;
+}
